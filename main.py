@@ -20,5 +20,5 @@ t2=f_createTurtle('red', 2)
 t3=f_createTurtle('orange', 3)
 t4=f_createTurtle('green', 4)
 # Step 3: start the race
-f_startRace(t1, t2, False, t4)
+f_startRace(t1, t2, t3, t4)
 
